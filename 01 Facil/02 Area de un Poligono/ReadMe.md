@@ -19,6 +19,8 @@ Imprime el cálculo del área para **cada tipo de polígono**.
 
 ```bash
 $ python area_poligono.py
-Área del triángulo: 15.0
-Área del cuadrado: 25
-Área del rectángulo: 30
+Vamos a calcular el area de un poligono
+Digita T para riangulo, C para cuadrado o R para rectangulo: T
+Ingrese la base: 12
+Ingrese la altura: 6
+El area del triangulo es: 36.00

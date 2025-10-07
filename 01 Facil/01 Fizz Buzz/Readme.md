@@ -26,4 +26,4 @@ Escribe un programa en **Python** que muestre por consola los números del **1 a
     ...
     fizzbuzz
 
-🔗 Basado en los retos de [Retos de Programación](https://retosdeprogramacion.com/ejercicios/)
+
