@@ -19,6 +19,8 @@
     
     $ python MarcodePalabras.py
 
-    El SEGUNDO numero mas grande de la lista [2, 4, 8, 6, 9, 0, 7, 6] es: 
-    8
+    Ingrese el voltaje (V) o deje en blanco: 
+    Ingrese la corriente (I) o deje en blanco: 2
+    Ingrese la resistencia (R) o deje en blanco: 10
+    El voltaje es: 20.00 voltios
     
