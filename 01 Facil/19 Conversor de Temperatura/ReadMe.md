@@ -1,4 +1,4 @@
-# 🧮 Ejercicio 18 — La Ley de Ohm
+# 🧮 Ejercicio 19 — Conversor de Temperatura
 
 ---
 
