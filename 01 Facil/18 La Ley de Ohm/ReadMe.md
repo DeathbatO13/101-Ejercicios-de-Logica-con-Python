@@ -17,7 +17,7 @@
 ## 💡 Ejemplo
 
     
-    $ python MarcodePalabras.py
+    $ python LeydeOhm.py
 
     Ingrese el voltaje (V) o deje en blanco: 
     Ingrese la corriente (I) o deje en blanco: 2

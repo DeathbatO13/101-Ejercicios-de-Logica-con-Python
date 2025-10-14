@@ -14,7 +14,7 @@
 ## 💡 Ejemplo
 
     
-    $ python MarcodePalabras.py
+    $ python Biciestos.py
 
     Introduce un año: 2000
     Los proximos 30 años bisiestos son: 

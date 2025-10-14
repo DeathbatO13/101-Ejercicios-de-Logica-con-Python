@@ -16,7 +16,7 @@
 ## 💡 Ejemplo
 
     
-    $ python MarcodePalabras.py
+    $ python Conversor.py
 
     Ingrese la temperatura a convertir: 18
     Ingrese la unidad de la temperatura (°C para Celsius, °F para Fahrenheit): °C
