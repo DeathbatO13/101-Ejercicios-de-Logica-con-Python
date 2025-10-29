@@ -1,4 +1,4 @@
-# 🧮 Ejercicio 09 — Maximo Comun Divisor y Minimo Comun Multiplo
+# 🧮 Ejercicio 10 — Maximo Comun Divisor y Minimo Comun Multiplo
 
 ## 📌 Descripción
 
